@@ -193,7 +193,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Home
+                                        Accueil
                                     </span>
                                 </div>
                             </NavLink>
@@ -209,7 +209,7 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <FaUser className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        About
+                                    préambule
                                     </span>
                                 </div>
                             </NavLink>
@@ -227,7 +227,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Education
+                                        Formation
                                     </span>
                                 </div>
                             </NavLink>
@@ -263,7 +263,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Projects
+                                        Projet
                                     </span>
                                 </div>
                             </NavLink>
