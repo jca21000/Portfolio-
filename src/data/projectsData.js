@@ -17,7 +17,7 @@ export const projectsData = [
     projectDesc: 'PortFolio 2022 Chekpoint 4',
     tags: ['React'],
     code: '',
-    demo:  'https://github.com/jca21000/Portfolio',
+    demo:  'https://baasile.github.io/Projet-1-quipe-3/pages404',
     image: 'https://zupimages.net/up/22/29/t1eg.png'
 },
 {
